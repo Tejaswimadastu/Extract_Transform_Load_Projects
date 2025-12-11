@@ -1,0 +1,42 @@
+2025-12-11 11:41:01,324 | INFO | Fetching data for Delhi...
+2025-12-11 11:41:01,325 | INFO | Requesting 28.7041, 77.1025 (attempt 1/3)
+2025-12-11 11:41:02,985 | INFO | Status code: 200
+2025-12-11 11:41:03,083 | INFO | [Delhi] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\delhi_raw_20251211T061103Z.json
+2025-12-11 11:41:03,084 | INFO | Fetching data for Mumbai...
+2025-12-11 11:41:03,085 | INFO | Requesting 19.076, 72.8777 (attempt 1/3)
+2025-12-11 11:41:03,856 | INFO | Status code: 200
+2025-12-11 11:41:03,864 | INFO | [Mumbai] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\mumbai_raw_20251211T061103Z.json
+2025-12-11 11:41:03,868 | INFO | Fetching data for Bengaluru...
+2025-12-11 11:41:03,874 | INFO | Requesting 12.9716, 77.5946 (attempt 1/3)
+2025-12-11 11:41:04,495 | INFO | Status code: 200
+2025-12-11 11:41:04,498 | INFO | [Bengaluru] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\bengaluru_raw_20251211T061104Z.json
+2025-12-11 11:41:04,498 | INFO | Fetching data for Hyderabad...
+2025-12-11 11:41:04,499 | INFO | Requesting 17.385, 78.4867 (attempt 1/3)
+2025-12-11 11:41:05,117 | INFO | Status code: 200
+2025-12-11 11:41:05,127 | INFO | [Hyderabad] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\hyderabad_raw_20251211T061105Z.json
+2025-12-11 11:41:05,133 | INFO | Fetching data for Kolkata...
+2025-12-11 11:41:05,135 | INFO | Requesting 22.5726, 88.3639 (attempt 1/3)
+2025-12-11 11:41:09,443 | INFO | Status code: 200
+2025-12-11 11:41:09,449 | INFO | [Kolkata] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\kolkata_raw_20251211T061109Z.json
+2025-12-11 11:41:09,450 | INFO | Extraction completed. Total files saved: 5
+2025-12-11 14:09:57,970 | INFO | Fetching data for Delhi...
+2025-12-11 14:09:57,980 | INFO | Requesting 28.7041, 77.1025 (attempt 1/3)
+2025-12-11 14:09:59,093 | INFO | Status code: 200
+2025-12-11 14:09:59,096 | INFO | [Delhi] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\delhi_raw_20251211T083959Z.json
+2025-12-11 14:09:59,096 | INFO | Fetching data for Mumbai...
+2025-12-11 14:09:59,097 | INFO | Requesting 19.076, 72.8777 (attempt 1/3)
+2025-12-11 14:09:59,924 | INFO | Status code: 200
+2025-12-11 14:09:59,927 | INFO | [Mumbai] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\mumbai_raw_20251211T083959Z.json
+2025-12-11 14:09:59,927 | INFO | Fetching data for Bengaluru...
+2025-12-11 14:09:59,927 | INFO | Requesting 12.9716, 77.5946 (attempt 1/3)
+2025-12-11 14:10:00,533 | INFO | Status code: 200
+2025-12-11 14:10:00,536 | INFO | [Bengaluru] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\bengaluru_raw_20251211T084000Z.json
+2025-12-11 14:10:00,538 | INFO | Fetching data for Hyderabad...
+2025-12-11 14:10:00,539 | INFO | Requesting 17.385, 78.4867 (attempt 1/3)
+2025-12-11 14:10:01,164 | INFO | Status code: 200
+2025-12-11 14:10:01,166 | INFO | [Hyderabad] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\hyderabad_raw_20251211T084001Z.json
+2025-12-11 14:10:01,166 | INFO | Fetching data for Kolkata...
+2025-12-11 14:10:01,167 | INFO | Requesting 22.5726, 88.3639 (attempt 1/3)
+2025-12-11 14:10:01,919 | INFO | Status code: 200
+2025-12-11 14:10:01,921 | INFO | [Kolkata] Saved → C:\Users\Srin\OneDrive\ドキュメント\Urban_Air_Quality_ETL\data\raw\kolkata_raw_20251211T084001Z.json
+2025-12-11 14:10:01,922 | INFO | Extraction completed. Total files saved: 5
