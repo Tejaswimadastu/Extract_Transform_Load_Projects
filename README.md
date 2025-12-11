@@ -157,9 +157,7 @@ Supabase rejects API key → remove quotes in .env and ensure you pasted the ful
 JSON errors when inserting: ensure NaN are converted to None and datetimes are ISO strings.
 
 Duplicate columns in CSV → rename or dedupe before insert.
-
 If you paste the script error, I’ll diagnose quickly.
-
 Contributing
 
 Add small, focused commits and PRs.
