@@ -1,0 +1,6 @@
+metric,value
+churn_percentage,25.6
+avg_monthly_by_contract,"{'Month-to-month': 67.31, 'One year': 67.95, 'Two year': 63.44}"
+tenure_group_counts,"{'New': 321, 'Regular': 268, 'Champion': 208, 'Loyal': 203}"
+internet_service_distribution,"{'Fiber optic': 468, 'DSL': 329, 'No': 203}"
+pivot_tenure_vs_churn,"[{'tenure_group': 'Champion', 'No': 195, 'Yes': 13}, {'tenure_group': 'Loyal', 'No': 170, 'Yes': 33}, {'tenure_group': 'New', 'No': 167, 'Yes': 154}, {'tenure_group': 'Regular', 'No': 212, 'Yes': 56}]"
